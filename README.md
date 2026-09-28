@@ -5,4 +5,4 @@ This is version 2 of my porfolio site - check out version one [here](https://git
 - HTML, CSS, JavaScript
 
 ## 🌱 Live Demo 
-Check it out [here](https://christawester.ink/).
+Check it out [here](https://creestah.github.io/portfolio/).
